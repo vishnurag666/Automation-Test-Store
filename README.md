@@ -1,7 +1,7 @@
 AUTOMATION TEST STORE - AUTOMATION & MANUAL TESTING
 
 ## Introduction
-Welcome to the ##Automation ##Test ##Store Automation with Cypress repository! This project leverages Cypress and BDD with Cucumber to automate various functionalities of the Automation Test Store e-commerce platform.
+Welcome to the Automation Test Store Automation with Cypress repository! This project leverages Cypress and BDD with Cucumber to automate various functionalities of the Automation Test Store e-commerce platform.
 ## Project Type
 Automation & Manual
 
